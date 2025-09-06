@@ -1,0 +1,98 @@
+2025-09-01 22:40:53,223 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:08:28,052 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:08:56,340 - INFO - fetch_expenses_for_date: 2024-08-02
+2025-09-02 12:08:58,982 - INFO - fetch_expenses_for_date: 2024-08-02
+2025-09-02 12:19:30,146 - INFO - fetch_expenses_for_date: 2024-08-02
+2025-09-02 12:20:00,969 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:20:41,480 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:23:39,350 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:30:22,655 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:33:07,402 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:34:38,456 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:37:21,821 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:38:15,722 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:41:10,945 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:44:14,258 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:45:29,212 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:47:14,476 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 12:47:22,096 - INFO - fetch_expenses_for_date: 2024-08-02
+2025-09-02 12:47:36,918 - INFO - fetch_expenses_for_date: 2024-08-07
+2025-09-02 12:50:41,823 - INFO - fetch_expenses_for_date: 2024-08-07
+2025-09-02 12:55:17,814 - INFO - fetch_expenses_for_date: 2024-08-07
+2025-09-02 12:56:12,271 - INFO - fetch_expenses_for_date: 2024-08-07
+2025-09-02 12:57:38,397 - INFO - fetch_expenses_for_date: 2024-08-07
+2025-09-02 12:57:40,418 - INFO - fetch_expenses_for_date: 2024-08-07
+2025-09-02 12:57:42,519 - INFO - delete_expenses_for_date: 2024-08-07
+2025-09-02 12:57:42,547 - INFO - insert_expense called with date:2024-08-07, amount:20.0, category:Shopping, notes:bought cocnut
+2025-09-02 12:57:42,604 - INFO - insert_expense called with date:2024-08-07, amount:10.0, category:Shopping, notes:bought hair oil
+2025-09-02 12:57:42,619 - INFO - insert_expense called with date:2024-08-07, amount:40.0, category:Food, notes:ate pakoda
+2025-09-02 12:57:50,879 - INFO - fetch_expenses_for_date: 2024-08-07
+2025-09-02 14:39:52,347 - INFO - delete_expenses_for_date: 2024-08-28
+2025-09-02 14:39:52,660 - INFO - insert_expense called with date:2024-08-28, amount:23.0, category:Shopping, notes:Bought mercedez car
+2025-09-02 14:41:44,957 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:48:03,095 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:48:08,557 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:49:41,623 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:50:08,517 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:52:05,098 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:52:07,879 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:53:14,516 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:57:16,393 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:58:36,370 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 14:58:50,393 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 15:20:29,679 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:22:21,319 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:24:11,903 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:28:08,140 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:28:12,631 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:35:55,764 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:36:00,126 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:36:52,479 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:36:54,035 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:37:01,160 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:37:02,573 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:37:04,958 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:37:37,574 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:46:29,974 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 15:49:55,584 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:50:03,288 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:59:40,050 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 15:59:44,262 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 16:01:53,199 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 16:01:56,833 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 16:04:37,251 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 16:04:40,976 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 16:04:43,102 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 18:16:02,377 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 18:17:45,079 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 18:17:47,228 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-02 21:32:47,104 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 21:32:48,340 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 21:32:50,468 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-04
+2025-09-02 21:37:41,796 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 21:53:12,869 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 21:53:17,691 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 21:53:19,838 - INFO - get_monthly_expense_totals called
+2025-09-02 21:54:48,187 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 21:54:50,349 - INFO - get_monthly_expense_totals called
+2025-09-02 21:55:15,016 - INFO - fetch_expenses_for_date: 2024-10-01
+2025-09-02 21:55:17,132 - INFO - get_monthly_expense_totals called
+2025-09-02 21:55:54,231 - INFO - fetch_expenses_for_date: 2024-10-01
+2025-09-02 21:55:56,331 - INFO - delete_expenses_for_date: 2024-10-01
+2025-09-02 21:55:56,373 - INFO - insert_expense called with date:2024-10-01, amount:100.0, category:Food, notes:Eat at dominoz
+2025-09-02 21:55:58,467 - INFO - get_monthly_expense_totals called
+2025-09-02 22:44:46,463 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-02 22:44:48,900 - INFO - get_monthly_expense_totals called
+2025-09-06 15:01:20,265 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-06 15:01:22,456 - INFO - get_monthly_expense_totals called
+2025-09-06 15:02:14,384 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-06 15:02:16,492 - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-09-06 15:02:18,605 - INFO - get_monthly_expense_totals called
+2025-09-06 15:03:32,255 - INFO - fetch_expenses_for_date: 2024-08-01
+2025-09-06 15:03:34,367 - INFO - delete_expenses_for_date: 2024-08-01
+2025-09-06 15:03:34,402 - INFO - insert_expense called with date:2024-08-01, amount:1227.0, category:Rent, notes:Monthly rent payment
+2025-09-06 15:03:34,418 - INFO - insert_expense called with date:2024-08-01, amount:300.0, category:Food, notes:Groceries for the week
+2025-09-06 15:03:34,437 - INFO - insert_expense called with date:2024-08-01, amount:1200.0, category:Rent, notes:Monthly rent payment
+2025-09-06 15:03:34,453 - INFO - insert_expense called with date:2024-08-01, amount:300.0, category:Food, notes:Groceries for the week
+2025-09-06 15:03:34,469 - INFO - insert_expense called with date:2024-08-01, amount:9.0, category:Shopping, notes:Bought earphone
+2025-09-06 15:03:36,526 - INFO - get_monthly_expense_totals called
